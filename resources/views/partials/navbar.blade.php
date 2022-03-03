@@ -44,4 +44,8 @@ $navLinks = [
             </li>
         </ul>
     </div>
+
+    <div class="nav_search">
+        {{-- QUI SEARCH FORM --}}
+    </div>
 </div>

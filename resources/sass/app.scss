@@ -1,10 +1,21 @@
+// BOOTSTRAP
 @import "~bootstrap/scss/bootstrap";
 
-@import "./partials/variables";
+// FONT
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+// VARIABLES + MAIN
+@import "./partials/variables";
+@import "./partials/main";
+
+// HEADER
 @import "./partials/navbar";
 @import "./partials/jumbotron";
+
+// MAIN
 @import "./partials/mainContent";
 @import "./partials/infoLinks";
+
+// FOOTER
 @import "./partials/footerMain";
 @import "./partials/footerBottom";
