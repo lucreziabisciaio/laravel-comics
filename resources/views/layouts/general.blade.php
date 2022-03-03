@@ -19,6 +19,7 @@
     <div class="jumbotron"></div>
 
     <main>
+        @yield('content')
         @yield('infoLinks')
     </main>
 

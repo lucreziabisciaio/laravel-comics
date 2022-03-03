@@ -1,7 +1,10 @@
 @import "~bootstrap/scss/bootstrap";
+
 @import "./partials/variables";
+
 @import "./partials/navbar";
 @import "./partials/jumbotron";
+@import "./partials/mainContent";
+@import "./partials/infoLinks";
 @import "./partials/footerMain";
 @import "./partials/footerBottom";
-@import "./partials/infoLinks";
