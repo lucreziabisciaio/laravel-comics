@@ -1,0 +1,25 @@
+.nav_logo a > img {
+    width: 90px;
+}
+    
+ul {
+    text-transform: uppercase;
+    list-style: none;
+
+    li {
+        font-size: 15px;
+        font-weight: 700;
+        padding: 60px 0;
+        margin: 0 10px;
+        border-bottom: 7px transparent solid;
+
+        &:hover {
+            color: $blue-color;
+            border-bottom: 7px $blue-color solid;
+        }
+    }
+}
+
+a {
+    text-decoration: none;
+}

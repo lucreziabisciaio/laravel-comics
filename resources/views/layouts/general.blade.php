@@ -12,6 +12,9 @@
 </head>
 
 <body>
+    <header class="bg-light">
+        @include('partials.navbar')
+    </header>
 
 </body>
 

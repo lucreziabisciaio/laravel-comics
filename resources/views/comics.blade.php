@@ -1,3 +1,3 @@
 @extends('layouts.general')
 
-@section('title', 'Home')
+@section('title', 'Comics')
