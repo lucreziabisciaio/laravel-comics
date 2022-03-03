@@ -28,7 +28,6 @@ $navLinks = [
                     </a>
                 </li>
             @endforeach
-            {{-- <li v-for="link in nav" :key="link.id"> {{ link.label }} </li> --}}
         </ul>
     </div>
 </div>

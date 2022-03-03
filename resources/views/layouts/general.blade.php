@@ -16,6 +16,8 @@
         @include('partials.navbar')
     </header>
 
+    <div class="jumbotron"></div>
+
 </body>
 
 </html>

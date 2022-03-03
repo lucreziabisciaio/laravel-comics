@@ -12185,7 +12185,7 @@ ul {
 ul li {
   font-size: 15px;
   font-weight: 700;
-  padding: 60px 0;
+  padding: 50px 0;
   margin: 0 10px;
   border-bottom: 7px transparent solid;
 }
@@ -12197,5 +12197,11 @@ ul li:hover {
 
 a {
   text-decoration: none;
+}
+
+.jumbotron {
+  padding: 200px;
+  background: url("/img/jumbotron.jpg") no-repeat;
+  background-size: cover;
 }
 
