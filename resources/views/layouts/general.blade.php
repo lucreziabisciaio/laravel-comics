@@ -18,6 +18,10 @@
 
     <div class="jumbotron"></div>
 
+    <main>
+        @yield('infoLinks')
+    </main>
+
     <footer>
         @include('partials.footerMain')
         @include('partials.footerBottom')

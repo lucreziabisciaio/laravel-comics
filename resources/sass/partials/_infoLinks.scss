@@ -1,0 +1,24 @@
+.info {
+    background-color: $blue-color;
+
+    ul {
+        text-transform: uppercase;
+        padding: 45px 0;
+
+        li {
+            color: white;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+
+            .info_img {
+                margin: 0 15px;
+                width: 50px;
+
+                img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

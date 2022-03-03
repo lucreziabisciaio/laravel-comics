@@ -12285,3 +12285,28 @@ fieldset:disabled .btn {
   margin: 0px 5px;
 }
 
+.info {
+  background-color: #0282F9;
+}
+
+.info ul {
+  text-transform: uppercase;
+  padding: 45px 0;
+}
+
+.info ul li {
+  color: white;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.info ul li .info_img {
+  margin: 0 15px;
+  width: 50px;
+}
+
+.info ul li .info_img img {
+  width: 100%;
+}
+
