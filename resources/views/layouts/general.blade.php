@@ -18,6 +18,11 @@
 
     <div class="jumbotron"></div>
 
+    <footer>
+        @include('partials.footerMain')
+        @include('partials.footerBottom')
+    </footer>
+
 </body>
 
 </html>

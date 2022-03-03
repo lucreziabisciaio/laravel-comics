@@ -2,7 +2,7 @@
     width: 90px;
 }
     
-ul {
+.nav_links ul {
     text-transform: uppercase;
     list-style: none;
 
@@ -17,9 +17,9 @@ ul {
             color: $blue-color;
             border-bottom: 7px $blue-color solid;
         }
-    }
-}
 
-a {
-    text-decoration: none;
+        a {
+            text-decoration: none;
+        }
+    }
 }
