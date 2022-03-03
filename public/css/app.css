@@ -12182,7 +12182,7 @@ fieldset:disabled .btn {
   list-style: none;
 }
 
-.nav_links ul li {
+.nav_links ul li.dynamic {
   font-size: 15px;
   font-weight: 700;
   padding: 50px 0;
@@ -12190,12 +12190,12 @@ fieldset:disabled .btn {
   border-bottom: 7px transparent solid;
 }
 
-.nav_links ul li:hover {
+.nav_links ul li.dynamic:hover {
   color: #0282F9;
   border-bottom: 7px #0282F9 solid;
 }
 
-.nav_links ul li a {
+.nav_links ul li.dynamic a {
   text-decoration: none;
 }
 
